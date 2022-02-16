@@ -1,0 +1,16 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Created to understand how process.nextTick(),setImmediate() and setTimeout() works in the event loop",
+  "main": "testing3.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
