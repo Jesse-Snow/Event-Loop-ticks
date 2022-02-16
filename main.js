@@ -1,4 +1,6 @@
-/*
+/* 
+- Portuguese Explanation: 
+ 
 process.nextTick() executa sua função no fim da operação atual
 do event loop e antes do próximo operação/tick do event loop.
 Útil para quado for garantir que garanta que um código seja
